@@ -1,4 +1,4 @@
-package br.com.murillo.schoolspring.models;
+package br.com.murillo.schoolspring.model.entities;
 
 public class Client {
 
